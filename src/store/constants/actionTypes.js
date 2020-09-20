@@ -1,0 +1,9 @@
+export const USER_EMAIL = "USER_EMAIL";
+export const USER_PASSWORD = "USER_PASSWORD";
+export const USER_FULLNAME = "USER_FULLNAME";
+export const USER_BIO_RECORDING = "USER_BIO_RECORDING";
+export const USERNAME = "USERNAME";
+export const USER_DESCRIPTION = "USER_DESCRIPTION";
+export const PICKER = "PICKER";
+export const WEBSITE = "WEBSITE";
+export const IMAGE = "IMAGE";
